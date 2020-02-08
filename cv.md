@@ -24,4 +24,14 @@
 **Project:** Web-application for school of foreign languages 
 
 The application allows to optimize access to such blocks of information as: the schedule of pupils and teachers, the progress of students, information about students and teachers, the languages and training costs provided for studying and others features .
+### Education
+**Self-Education:** 
+- online learning (HTML/CSS courses, JS)
+- practical tasks 
+
+**September, 2015–June, 2019 – student**, Belarusian State University of Informatics and Radio electronics, Minsk
+
+**Faculty:** Computer Aided Design
+
+**Specialty:**  Information systems and technologies in business management
 
