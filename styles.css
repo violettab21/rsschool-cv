@@ -1,0 +1,52 @@
+body{
+	font-family: Arial, serif;
+	font-size: 15px;
+	line-height: 18px;
+}
+.container{
+	width: 70%;
+	margin:2% auto;
+}
+header h1{
+	font-size: 1.5em;
+	text-align: center;
+}
+section p{
+	padding-left: 5px;
+}
+.section-name{
+	font-size: 1.1em;
+	font-weight: bold;
+	background-color: grey;
+	padding: 2px 3px;
+}
+.skills ul, .education>ul{
+	list-style-type: none;
+	padding:0;
+	padding-left: 5px;
+	
+}
+.skills li, .education li{
+	padding-bottom: 4px;
+	
+}
+span{
+	font-weight: bold;
+}
+.info{
+	display: flex;
+	justify-content: space-between;
+}
+	.avatar{
+		padding-right: 3%;
+	}
+
+/*img{
+	float: right;
+	 margin: 10px;
+}
+section{
+	clear: both;
+}*/
+
+
