@@ -1,52 +1,52 @@
-body{
-	font-family: Arial, serif;
-	font-size: 15px;
-	line-height: 18px;
+body {
+  font-size: 15px;
+  line-height: 18px;
+  font-family: Arial, serif;
+  background-color: azure;
 }
-.container{
-	width: 70%;
-	margin:2% auto;
-}
-header h1{
-	font-size: 1.5em;
-	text-align: center;
-}
-section p{
-	padding-left: 5px;
-}
-.section-name{
-	font-size: 1.1em;
-	font-weight: bold;
-	background-color: grey;
-	padding: 2px 3px;
-}
-.skills ul, .education>ul{
-	list-style-type: none;
-	padding:0;
-	padding-left: 5px;
-	
-}
-.skills li, .education li{
-	padding-bottom: 4px;
-	
-}
-span{
-	font-weight: bold;
-}
-.info{
-	display: flex;
-	justify-content: space-between;
-}
-	.avatar{
-		padding-right: 3%;
-	}
 
-/*img{
-	float: right;
-	 margin: 10px;
+.container {
+  width: 70%;
+  margin: 2% auto;
 }
-section{
-	clear: both;
-}*/
 
+header h1 {
+  font-size: 1.5em;
+  text-align: center;
+}
 
+section p {
+  padding-left: 5px;
+}
+
+.section-name {
+  padding: 2px 3px;
+  font-weight: bold;
+  font-size: 1.1em;
+  background-color: grey;
+}
+
+.skills ul,
+.education > ul {
+  padding: 0;
+  padding-left: 5px;
+  list-style-type: none;
+}
+
+.skills li,
+.education li {
+  padding-bottom: 4px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.contacts {
+  display: flex;
+  justify-content: space-between;
+}
+
+.avatar {
+  padding-right: 3%;
+}
