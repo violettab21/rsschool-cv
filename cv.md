@@ -24,6 +24,19 @@ In addition to that I have developed good communication skills since on all proj
 
 **Version Control System:** Git
 
+### Code Example
+#### Codewars task: Write Number in Expanded Form
+You will be given a number and you will need to return it as a string in Expanded Form. 
+
+For example: 70304 --> "70000 + 300 + 4"
+
+**Solution:**
+```
+function expandedForm(num) {
+  let string = String(num);
+  return string.split('').map((element, index, arr) => element * Math.pow(10, (arr.length - (index + 1)))).filter(element => element!=0).join(' + ');
+}
+```
 ### Experience
 - **EPAM** - _July, 2021 - now_ 
 
