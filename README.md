@@ -1,1 +1,1 @@
-https://violettab21.github.io/rsschool-cv/
+https://violettab21.github.io/rsschool-cv/cv
