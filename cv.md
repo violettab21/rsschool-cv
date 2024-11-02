@@ -1,22 +1,22 @@
-## Violetta Batsura - Junior Frontend Developer
+## Violetta Batsura - Junior Front-end Developer
 ### Contacts
 **Email:** violettabatsura@gmail.com
 
 **Phone:** +375445471674
 
 ### Summary
-Self-motivated person with a great desire to develop skills in development. I have 5 years experience in functional testing of web sites and web based applications. So my goal is to create product with intuitive interface with a user in mind. So far I have participated in three projects with different domains and technologies(finance, healthcare, E-commerce).
+Self-motivated person with a great desire to develop skills in development. I have 5 years experience in functional testing of web sites and web based applications. So my goal is to create products with intuitive interface with a user in mind. So far I have participated in three projects with different domains and technologies (finance, healthcare, E-commerce).
 I have experience of using SCRUM methodology, I participated in all SCRUM ceremonies on the last projects.
-In addition to that I developed good communication skills since on both project I constantly communicated with the team.
+In addition to that I have developed good communication skills since on all projects I constantly communicated with the team.
 
 ### Skills
-**Programming Language:** Java Script (Fundamentals)
+**Programming Language:** JavaScript (Fundamentals)
 
-**Technologies:** Microsoft Azure (Function Apps, Logic Apps, Event Hub), HTML, CSS, JSON, XML, REST API
+**Technologies:** Microsoft Azure (Function App, Logic App, Event Hub), HTML, CSS, JSON, XML, REST API
 
-**Databases:** MS SQL Server, Microsoft Dataverse, Azure Cosmos DB, Azure Databricks (SQL query language)
+**Databases:** MS SQL Server, Azure Cosmos DB, Azure Databricks (SQL query language)
 
-**Tools:** Postman, JIRA, Pixel Perfect, 
+**Tools:** Postman, JIRA, PerfectPixel
 
 **Foreign Language:** English (B2)
 
