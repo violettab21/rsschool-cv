@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(66, 61, 61);
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(64, 64, 143);
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+ul{
+   list-style-type: none;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.contacts{
+    display: flex;
+    justify-content: space-between;
+}
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+pre{
+    padding: 20px;
+}
+.code_example{
+   background-color:rgb(241, 241, 241);
+}
