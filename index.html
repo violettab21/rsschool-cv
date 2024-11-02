@@ -27,8 +27,7 @@
         <div>
             <h2>Summary</h2>
             <p>Self-motivated person with a great desire to develop skills in development. I have 5 years experience in functional testing of web sites and web based applications. So my goal is to create products with intuitive interface with a user in mind. So far I have participated in three projects with different domains and technologies (finance, healthcare, E-commerce).
-                I have experience of using SCRUM methodology, I participated in all SCRUM ceremonies on the last projects.
-                In addition to that I have developed good communication skills since on all projects I constantly communicated with the team.</p>
+                I have experience of using SCRUM methodology, I participated in all SCRUM ceremonies on the last projects. In addition to that I have developed good communication skills since on all projects I constantly communicated with the team.</p>
         </div>
         <div class="skills">
             <h2>Skills</h2>
@@ -45,15 +44,15 @@
         <div>
             <h2>Code Example</h2>
             <h3>Codewars task: Write Number in Expanded Form</h3>
-            <p>You will be given a number and you will need to return it as a string in Expanded Form. 
+            <p>You will be given a number and you will need to return it as a string in Expanded Form.</p> 
             <p>For example: 70304 - "70000 + 300 + 4"</p>
             <p><span>Solution:</span></p>
             <div class="code_example">
                 <pre><code>function expandedForm(num) {
                     let string = String(num);
                     return string.split('')
-                    .map((element, index, arr) => element * Math.pow(10, (arr.length - (index + 1))))
-                    .filter(element => element!=0)
+                    .map((element, index, arr) =&gt element * Math.pow(10, (arr.length - (index + 1))))
+                    .filter(element =&gt element!=0)
                     .join(' + ');
                   }</code>
                 </pre>
